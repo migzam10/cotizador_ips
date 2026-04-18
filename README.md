@@ -26,11 +26,11 @@ cotizador_ips/
 ├── modelos/         # Consultas y manipulación de datos
 ├── vistas/          # Plantillas e interfaz de usuario
 └── index.php        # Punto de entrada de la aplicación
-
+```
 ## Instalación
 
 1. Clonar el repositorio:
-git clone [https://github.com/migzam10/cotizador_ips.git](https://github.com/migzam10/cotizador_ips.git)
+```git clone [https://github.com/migzam10/cotizador_ips.git](https://github.com/migzam10/cotizador_ips.git)```
 
 2. Configurar el servidor: Mueve la carpeta a tu directorio de tu servidor.
 
@@ -40,7 +40,7 @@ Crea una base de datos en tu gestor MySQL.
 Importa el archivo BD.sql.
 Crea un archivo .env en la raiz con los parametros del archivo .env.example
 
-4. Ejecutar: Abre http://localhost/cotizador_ips en tu navegador.
+4. Ejecutar: Abre ```http://localhost/cotizador_ips``` en tu navegador.
 
 ## Lincencia
 
